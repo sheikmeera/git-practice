@@ -1,3 +1,2 @@
 Hello git
-
-Feature-1 change
+Git is easy
